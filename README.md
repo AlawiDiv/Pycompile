@@ -24,10 +24,7 @@ apt update && apt install git -y && git clone https://github.com/AlawiDiv/Pycomp
 
 #### [+]You will find The encrypted file on repo's home dir.
 
-## [+] Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+
 
 ## Follow the news channel on Telegram💻
  <p align="center"><a href="https://t.me/AWCODE3"> 
