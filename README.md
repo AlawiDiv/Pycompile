@@ -10,7 +10,7 @@
 
 ```apt install git -y```
 
-```git clone https://github.com/htr-tech/Pycompile```
+```git clone https://github.com/AlawiDiv/Pycompile```
 
 ```cd Pycompile```
 
@@ -18,7 +18,7 @@
 
 ### Or, Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/Pycompile && cd Pycompile && python2 compile.py
+apt update && apt install git -y && git clone https://github.com/AlawiDiv/Pycompile && cd Pycompile && python2 compile.py
 ```
 ## Script Credit : https://github.com/LOoLzeC
 
