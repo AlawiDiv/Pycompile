@@ -1,5 +1,5 @@
 # Py Compile
-### [+] Created By HTR-TECH (@***alawidev***)
+### [+] Created By AWC (@***alawidev***)
 ### [+] Disclaimer :
 ***Py Compile is a tool to Encrypt Python Scripts into an Unreadble Format.This tool converts Python Script to Base64,Marshal,Zlib Format.This Tool is created for Educational Purpose only.***
 
