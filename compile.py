@@ -4,7 +4,7 @@
 # Instagram : https://www.instagram.com/a_w_q5
 # ------------------------------------------------------- 
 # Platform : Linux
-# Time : Mon May 25 16:59:02 2020
+# Time : Mon May 25 16:59:02 2024
 # ------------------------------------------------------- 
 
 ## Script Credit : https://github.com/AlawiDiv
